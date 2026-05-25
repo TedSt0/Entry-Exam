@@ -10,7 +10,7 @@ A website for applying to college entrance exams, build with HTML, CSS, JavaScri
 ## Exam Dates Page
 ![EntryExam](GitHubImages/examDates.png)
 ## Login Window
-![EntryExam](GitHubImages/loginWindow.png)
+![EntryExam](GitHubImages/loginScreen.png)
 
 ## About this project
 This project was developed as part of a University Assignment.
