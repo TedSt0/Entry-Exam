@@ -3,11 +3,11 @@
 
 A website for applying to college entrance exams, build with HTML, CSS, JavaScript, PHP and XAMPP
 
-##Index Page
+## Index Page
 ![EntryExam](GitHubImages/index.png)
-##Apply Page
+## Apply Page
 ![EntryExam](GitHubImages/apply.png)
-##Exam Dates Page
+## Exam Dates Page
 ![EntryExam](GitHubImages/examDates.png)
-##Login Window
+## Login Window
 ![EntryExam](GitHubImages/loginWindow.png)
