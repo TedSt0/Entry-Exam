@@ -11,3 +11,9 @@ A website for applying to college entrance exams, build with HTML, CSS, JavaScri
 ![EntryExam](GitHubImages/examDates.png)
 ## Login Window
 ![EntryExam](GitHubImages/loginWindow.png)
+
+## About this website
+
+Using XAMPP, several SQL tables were created to store data about applicants, exams, majors, and users (administrators). The website connects to the database through PHP, allowing dynamic interaction with the stored data.
+
+Through this connection, the system supports full database operations, including adding new applicants, updating existing records, and deleting data. This ensures efficient management of the application process.
